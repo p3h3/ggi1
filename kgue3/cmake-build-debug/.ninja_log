@@ -1,0 +1,8 @@
+# ninja log v5
+1	90	6890838337208931	CMakeFiles/ggi1_3avb.dir/vorbereitung/3avb.c.obj	3fbabddb6236766f
+3	100	6890844735180331	CMakeFiles/ggi1_3ava.dir/vorbereitung/3ava.c.obj	2a21f4544f88ebba
+100	248	6890844736575616	ggi1_3ava.exe	7dac0260f1c8a947
+93	214	6890838338391785	ggi1_3avb.exe	d21d03812c81b315
+1	203	6891785622538007	build.ninja	4239dc09ca5f2320
+2	57	6891785693155054	CMakeFiles/ggi1_3ava.dir/vorbereitung/3ava.c.obj	6aa92643aa13fb67
+57	128	6891785693845529	ggi1_3ava.exe	7dac0260f1c8a947

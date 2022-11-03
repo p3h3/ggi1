@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ggi1_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ggi1_2nd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ggi1_2nd-Debug-35a9684b418a4fd81f52.json",
+					"name" : "ggi1_2nd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ggi1_2pa::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ggi1_2pa-Debug-134d721b88e98b8558e1.json",
+					"name" : "ggi1_2pa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ggi1_2pb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ggi1_2pb-Debug-2a7d48f12ba5e2cd9ddc.json",
+					"name" : "ggi1_2pb",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ggi1_2pc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ggi1_2pc-Debug-bc08a2f47bc1e506169f.json",
+					"name" : "ggi1_2pc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ggi1_2pd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ggi1_2pd-Debug-2533ad5903c99a9f5070.json",
+					"name" : "ggi1_2pd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ggi1_2va::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ggi1_2va-Debug-124494ff3f3a50907539.json",
+					"name" : "ggi1_2va",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ggi1_2vb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ggi1_2vb-Debug-181bceb1493a05df69b5.json",
+					"name" : "ggi1_2vb",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ggi1_2vc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ggi1_2vc-Debug-51d8574e1fcee9c06fd9.json",
+					"name" : "ggi1_2vc",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/peter/CLionProjects/ggi1-2/cmake-build-debug",
+		"source" : "C:/Users/peter/CLionProjects/ggi1-2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

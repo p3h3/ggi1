@@ -1,0 +1,5 @@
+C:/Users/peter/CLionProjects/ggi1/kgue1/cmake-build-debug/CMakeFiles/ggi1-1-main.dir
+C:/Users/peter/CLionProjects/ggi1/kgue1/cmake-build-debug/CMakeFiles/ggi1-1-nachbearbeitung1.dir
+C:/Users/peter/CLionProjects/ggi1/kgue1/cmake-build-debug/CMakeFiles/ggi1-1-nachbearbeitung2.dir
+C:/Users/peter/CLionProjects/ggi1/kgue1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/peter/CLionProjects/ggi1/kgue1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
