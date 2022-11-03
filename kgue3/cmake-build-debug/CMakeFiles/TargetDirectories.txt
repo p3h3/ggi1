@@ -1,4 +1,0 @@
-C:/Users/peter/CLionProjects/ggi1/kgue3/cmake-build-debug/CMakeFiles/ggi1_3ava.dir
-C:/Users/peter/CLionProjects/ggi1/kgue3/cmake-build-debug/CMakeFiles/ggi1_3avb.dir
-C:/Users/peter/CLionProjects/ggi1/kgue3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/peter/CLionProjects/ggi1/kgue3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
