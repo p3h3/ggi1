@@ -1,0 +1,3 @@
+// Algorithmus B erscheint sinnvoller.
+// die funktionalität ist wegen der einzelnen anweisung im nicht eingeklammerten if statement von a nicht anders,
+// die lesbarkeit nimmt aber mit den klammern alleine aus der gewohnheit heraus deutlich zu.
