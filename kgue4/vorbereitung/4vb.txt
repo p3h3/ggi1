@@ -1,0 +1,19 @@
+Was ist ein Pointer?
+ein pointer ist eine variable, die auf eine speicheradresse zeigt. Normalerweise ist dies speicheradresse die speicheradresse einer anderen variable.
+man kann mit pointern große objekte sehr performant hin und her reichen, ohne, dass der compiler eine kopie des objektes erstellen muss.
+Eine etwas gefährliche seite der pointer ist, dass, wenn bspw. an eine funktion ein pointer übergeben
+wird und man dessen dereferenzierten Wert bearbeitet, auch die originalen daten des objekts bearbeitet werden.
+Pointer sind also ziemlich mächtig, aber auch mit vorsicht zu genießen!
+
+Was ist eine referenz?
+Achtung: nicht mit referenzen aus C++ verwechseln!
+Eine referenz bzw. referenzierung ist, wenn man die speicheradresse einer variable einem pointer zuweist.
+Beispiel:
+int *p;
+int a = 5;
+p = &a;
+
+hier wurde ein pointer p ohne zuweisung erstellt.
+eine variable a mit wert 5 wurde erstellt.
+die Referenz des pointers p wurde auf die variable a gesetzt. (&a bedeutet "die speicheradresse von a")
+
